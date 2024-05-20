@@ -1,0 +1,14 @@
+C:\Users\Arcrpp\Desktop\geekBrains\Programming\c#\control_work\programm\bin\Debug\net7.0\control_work.exe
+C:\Users\Arcrpp\Desktop\geekBrains\Programming\c#\control_work\programm\bin\Debug\net7.0\control_work.deps.json
+C:\Users\Arcrpp\Desktop\geekBrains\Programming\c#\control_work\programm\bin\Debug\net7.0\control_work.runtimeconfig.json
+C:\Users\Arcrpp\Desktop\geekBrains\Programming\c#\control_work\programm\bin\Debug\net7.0\control_work.dll
+C:\Users\Arcrpp\Desktop\geekBrains\Programming\c#\control_work\programm\bin\Debug\net7.0\control_work.pdb
+C:\Users\Arcrpp\Desktop\geekBrains\Programming\c#\control_work\programm\obj\Debug\net7.0\control_work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arcrpp\Desktop\geekBrains\Programming\c#\control_work\programm\obj\Debug\net7.0\control_work.AssemblyInfoInputs.cache
+C:\Users\Arcrpp\Desktop\geekBrains\Programming\c#\control_work\programm\obj\Debug\net7.0\control_work.AssemblyInfo.cs
+C:\Users\Arcrpp\Desktop\geekBrains\Programming\c#\control_work\programm\obj\Debug\net7.0\control_work.csproj.CoreCompileInputs.cache
+C:\Users\Arcrpp\Desktop\geekBrains\Programming\c#\control_work\programm\obj\Debug\net7.0\control_work.dll
+C:\Users\Arcrpp\Desktop\geekBrains\Programming\c#\control_work\programm\obj\Debug\net7.0\refint\control_work.dll
+C:\Users\Arcrpp\Desktop\geekBrains\Programming\c#\control_work\programm\obj\Debug\net7.0\control_work.pdb
+C:\Users\Arcrpp\Desktop\geekBrains\Programming\c#\control_work\programm\obj\Debug\net7.0\control_work.genruntimeconfig.cache
+C:\Users\Arcrpp\Desktop\geekBrains\Programming\c#\control_work\programm\obj\Debug\net7.0\ref\control_work.dll
