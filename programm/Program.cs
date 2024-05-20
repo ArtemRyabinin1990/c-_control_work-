@@ -25,21 +25,39 @@ void printArray(string[] array)
 int getCountStr(string[] array, int searchCountStr)
 {
     int length = array.Length;
-    int count =0;
+    int count = 0;
     for (int i = 0; i < length; i++)
     {
-        if(array[i].Length <= searchCountStr) {
+        if (array[i].Length <= searchCountStr)
+        {
             count++;
         }
     }
     return count;
 }
 
-int searchCountStr=3;
+string[] getNewArray(string[] array, int searchCountStr)
+{
+    int length = array.Length;
+    int countStr = getCountStr(array, searchCountStr);
+    string[] newArray = new string[countStr];
+    int j = 0;
+
+    for (int i = 0; i < length; i++)
+    {
+       if (array[i].Length <= searchCountStr)
+       {
+           newArray[j] = array[i];
+           j++;
+       }
+    }
+
+    return newArray;
+}
+
+int searchCountStr = 3;
 Console.WriteLine("Задайте массив через пробел: ");
 string str = Console.ReadLine();
-
 string[] userArray = str.Split(' ');
-printArray(userArray);
-int count = getCountStr(userArray, searchCountStr);
-Console.WriteLine(count);
+string[] newArray = getNewArray(userArray, searchCountStr);
+printArray(newArray);
